@@ -1,20 +1,20 @@
 {
   "couple": {
-    "bride": "Bride Name",
-    "groom": "Groom Name",
+    "bride": "Akshaya S.G",
+    "groom": "Prabhul D.P",
     "displayName": "Bride & Groom",
     "heroImage": "images/couple.jpg",
     "coupleImage": "images/couple-2.jpg"
   },
   "date": {
-    "display": "18 December 2026",
-    "day": "Friday",
-    "time": "10:30 AM",
-    "iso": "2026-12-18T10:30:00+05:30"
+    "display": "13 September 2026",
+    "day": "Sunday",
+    "time": "11:20 AM",
+    "iso": "2026-09-13T10:30:00+05:30"
   },
   "location": {
     "venue": "Wedding Venue",
-    "address": "Complete Venue Address",
+    "address": "Sree Dharmasastha Devaswam Temple Auditorium, Bhoothakulam",
     "city": "Trivandrum",
     "mapUrl": "https://maps.google.com/"
   },
@@ -36,11 +36,11 @@
   },
   "events": [
     {
-      "name": "Engagement",
-      "date": "16 December 2026",
-      "time": "6:30 PM",
-      "venue": "Venue Name",
-      "address": "Venue Address",
+      "name": "Reception",
+      "date": "13 September 2026",
+      "time": "5:30 PM",
+      "venue": "Crystal Convention Centre",
+      "address": "Nagaroor",
       "description": "An evening of love and celebration.",
       "mapUrl": "https://maps.google.com/",
       "icon": "ring"

@@ -9,7 +9,7 @@
   "date": {
     "display": "13 September 2026",
     "day": "Sunday",
-    "time": "11:20 AM",
+    "time": "11:20 AM - 11.40 AM",
     "iso": "2026-09-13T11:20:00+05:30"
   },
   "location": {
@@ -38,7 +38,7 @@
     {
       "name": "Wedding Ceremony",
       "date": "13 September 2026",
-      "time": "11:30 AM",
+      "time": "11:20 AM - 11.40 AM",
       "venue": "Wedding Venue",
       "address": "Sree Dharmasastha Devaswam Temple Auditorium, Bhoothakulam",
       "description": "Join us as we begin our journey together.",
@@ -48,7 +48,7 @@
     {
       "name": "Reception",
       "date": "13 September 2026",
-      "time": "5:30 PM",
+      "time": "5:00 PM - 8.00 PM",
       "venue": "Crystal Convention Centre",
       "address": "Nagaroor",
       "description": "An evening of love and celebration.",
@@ -90,6 +90,6 @@
     "muted": "#75655D"
   },
   "footer": {
-    "text": "Made with love"
+    "text": "Groom's party starts at 09.00 AM  ||  Reception starts at 10.00 AM"
   }
 }

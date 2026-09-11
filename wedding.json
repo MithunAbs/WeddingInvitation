@@ -78,7 +78,7 @@
   "music": {
     "enabled": true,
     "file": "assets/music.mp3",
-    "autoplay": true,
+    "autoplay": false,
     "loop": true
   },
   "theme": {

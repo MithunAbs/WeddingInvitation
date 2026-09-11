@@ -65,7 +65,7 @@
     "images/gallery-5.jpg",
     "images/gallery-6.jpg"
   ],
-  "venueImage": "images/venue.jpg",
+  "venueImage": "images/venue.jpg.avif",
   "rsvp": {
     "enabled": true,
     "message": "We would love to celebrate this special day with you.",
